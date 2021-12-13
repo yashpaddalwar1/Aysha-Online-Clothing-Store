@@ -26,7 +26,7 @@ SECRET_KEY = '04zh@-*t@+2kpu^1qw74_7f7v8cp49ftyrfoa+_hr@%f_my1^b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','aysha-clothing-store.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','ayshaclothingstore.herokuapp.com']
 
 
 # Application definition
